@@ -1,0 +1,33 @@
+Policlinic
+P
+Alexey Mikhailov
+male
+14
+0145
+--------------------------
+W
+Mikhail Kozorov
+male
+Dantist
+14
+first
+---------------------------
+P
+Anastasiya Shirova
+female
+17
+0156
+---------------------------
+P
+Daniil Verlih
+male
+12
+123
+---------------------------
+W
+Arina Malisheva
+female
+surgeon
+15
+second
+---------------------------
